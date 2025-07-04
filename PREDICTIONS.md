@@ -2,3 +2,5 @@ I predict the double(n) function will return double the number I give it. I'm pl
 
 I predict the square() function will return the square of the number I give it. For instance, entering 5 should give 25, and -5 should give 25.
 
+I predict the isEven() function will return a boolean True when the number entered is even, and False when it is odd.
+

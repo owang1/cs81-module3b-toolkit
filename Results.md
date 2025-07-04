@@ -5,3 +5,6 @@ console.log(double(input));
 Then on the command line, I did the command "node math.js 5", and received the result 10. "node math.js 6" returned 12. "node math.js 0" returned 0. And "node math.js .2" returned .4, everything was as expected.
 
 Testing out square() gave expected results, like 4 for 2 and 25 for 5, as well as 25 for -5.
+
+Testing isEven() gave the expected results, although it was true and false, not True and False (capitalized). Some examples were 2, 0, -2, and 4 returned true. 3 and .2 returned false.
+
