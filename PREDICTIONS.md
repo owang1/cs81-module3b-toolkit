@@ -1,0 +1,1 @@
+I predict the double(n) function will return double the number I give it. I'm planning to use console.log() and enter a number like 5, and expecting to get 10. Then I'll use Node.js to test the JavaScript file from the terminal.
