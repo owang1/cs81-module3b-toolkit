@@ -4,3 +4,4 @@ I predict the square() function will return the square of the number I give it. 
 
 I predict the isEven() function will return a boolean True when the number entered is even, and False when it is odd.
 
+I predict isOdd() will return the opposite true / false results to isEven. It should be true when the number is odd, false when it is even.

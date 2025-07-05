@@ -8,3 +8,6 @@ Testing out square() gave expected results, like 4 for 2 and 25 for 5, as well a
 
 Testing isEven() gave the expected results, although it was true and false, not True and False (capitalized). Some examples were 2, 0, -2, and 4 returned true. 3 and .2 returned false.
 
+Testing isOdd() gave the expected results. Some examples were 1, 3, and 33 returned true. 0 and 2 returned false.
+
+

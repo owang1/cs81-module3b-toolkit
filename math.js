@@ -10,5 +10,9 @@ function isEven(n) {
 	return n % 2 == 0;
 }
 
+function isOdd(n) {
+	return n % 2 != 0;
+}
+
 const input = Number(process.argv[2]);
-console.log(isEven(input));
+console.log(isOdd(input));
