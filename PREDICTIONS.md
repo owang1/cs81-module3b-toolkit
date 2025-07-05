@@ -7,3 +7,5 @@ I predict the isEven() function will return a boolean True when the number enter
 I predict isOdd() will return the opposite true / false results to isEven. It should be true when the number is odd, false when it is even.
 
 I predict multiply() will multiply the two numbers given as arguments. For instance, if you give 3 & 4 as arguments it should return 12.
+
+I predict divide() will divide the first number by the second number. It will probably have a special result when divided by 0, maybe NaN?
