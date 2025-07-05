@@ -14,5 +14,11 @@ function isOdd(n) {
 	return n % 2 != 0;
 }
 
-const input = Number(process.argv[2]);
-console.log(isOdd(input));
+function multiply(a, b) {
+	return a * b;
+}
+
+//const input = Number(process.argv[2]);
+const a = Number(process.argv[2]);
+const b = Number(process.argv[3]);
+console.log(multiply(a, b));

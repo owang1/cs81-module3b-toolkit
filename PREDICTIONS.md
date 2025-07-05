@@ -5,3 +5,5 @@ I predict the square() function will return the square of the number I give it. 
 I predict the isEven() function will return a boolean True when the number entered is even, and False when it is odd.
 
 I predict isOdd() will return the opposite true / false results to isEven. It should be true when the number is odd, false when it is even.
+
+I predict multiply() will multiply the two numbers given as arguments. For instance, if you give 3 & 4 as arguments it should return 12.

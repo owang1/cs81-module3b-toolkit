@@ -10,4 +10,4 @@ Testing isEven() gave the expected results, although it was true and false, not 
 
 Testing isOdd() gave the expected results. Some examples were 1, 3, and 33 returned true. 0 and 2 returned false.
 
-
+Testing multiply() gave the expected results, like giving 3 & 4 gave 12. 3&-3 gave -9. And decimal numbers also gave the expected result, like .5&5 gave 2.5.
